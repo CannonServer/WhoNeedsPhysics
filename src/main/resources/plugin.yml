@@ -1,0 +1,5 @@
+main: main.java.com.oneshotmc.whoneedsphysics.WhoNeedsPhysics
+name: WhoNeedsPhysics
+version: 1.0
+author: Autst
+description: Simple plugin from on OneShotMC that allows signs to float.
